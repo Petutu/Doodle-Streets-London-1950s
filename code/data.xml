@@ -2,7 +2,7 @@
 <!-- example file containing base tags -->
 
 <game>	
-	<title>Company Name</title>
+	<title>TEST</title>
 	<founding-date>September 1, 2010</founding-date>
 	<website>https://github.com/juanuys/presskittie</website>
 	<based-in>Cityville, Metropolisland</based-in>
@@ -59,43 +59,11 @@
 	</trailers>
 	
 	<awards>
-		<award>
-			<description>Winner in this highly relevant contest.</description>
-			<info>Award Location, 20 October, 1989</info>
-		</award>
-		<award>
-			<description>Nomination for this prestigious award.</description>
-			<info>Award Ceremony, 4 December, 1991</info>
-		</award>
-		<award>
-			<description>Winner in this highly relevant contest.</description>
-			<info>Award Location, 20 October, 1989</info>
-		</award>
-		<award>
-			<description>Nomination for this prestigious award.</description>
-			<info>Award Ceremony, 4 December, 1991</info>
-		</award>
+		
 	</awards>
 	
 	<quotes>
-		<quote>
-			<description>This is a rather insignificant quote by a highly important person.</description>
-			<name>Person Name</name>
-			<website>Website</website>
-			<link>http://www.website.com/</link>
-		</quote>
-		<quote>
-			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
-			<name>Some Guy</name>
-			<website>This Page Is Visited By 12 Visitors A Month</website>
-			<link>http://geocities.blog.com/</link>
-		</quote>
-		<quote>
-			<description>I pretend to love this game even though I do not actually understand it.</description>
-			<name>Pretentious Bastard</name>
-			<website>Artsy Page</website>
-			<link>http://art.tumblr.com/</link>
-		</quote>
+		
 		<quote>
 			<description>HOLY SHIT SO AMAZING</description>
 			<name>Caps Guy</name>
