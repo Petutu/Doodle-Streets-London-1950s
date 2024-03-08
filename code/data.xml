@@ -4,8 +4,8 @@
 <game>	
 	<title>Crawling Paw</title>
 	<founding-date>September 1, 2022</founding-date>
-	<website>https://github.com/juanuys/presskittie</website>
-	<based-in>Cityville, Metropolisland</based-in>
+	<website></website>
+	<based-in>Prague, Czech Republic</based-in>
 	
 	<press-contact>press-contact@company.com</press-contact>
 	<phone>+00 (1) 22 33 44 55 66</phone>
@@ -16,17 +16,10 @@
 
 	<socials>
 		<social>
-			<name>http://twitter.com/MyCompanyName</name>
-			<link>http://twitter.com/MyCompanyName</link>
+			<name>DeviantArt</name>
+			<link>https://www.deviantart.com/crawlingpaw</link>
 		</social>
-		<social>
-			<name>http://facebook.com/MyCompanyName</name>
-			<link>http://facebook.com/MyCompanyName</link>
-		</social>
-		<social>
-			<name>Skype</name>
-			<link>callto:MySkypeName</link>
-		</social>
+		
 	</socials>
 
 	<description>
@@ -74,7 +67,7 @@
 	
 	<credits>
 		<credit>
-			<person>John Doe</person>
+			<person></person>
 			<role>Artist, Freelancer</role>
 		</credit>
 		
