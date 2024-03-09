@@ -49,9 +49,9 @@ $navTitle = '';
 $header = '';
 $contentText = '';
 
-if( file_exists("images/header.png") )
+if( file_exists("images/retrobanner.gif") )
 {
-	$header = '<img src="images/header.png" class="header">';
+	$header = '<img src="images/retrobanner.gif" class="header">';
 }
 
 if( $state == 'upgrade' )
