@@ -3,14 +3,14 @@
 <game>
 	<title>Doodle Streets: London 1950s</title>
 	<release-date>1 April, 2024</release-date>
-	
+	<website>https://store.steampowered.com/app/2625960/Doodle_Streets_London_1950s/</website>
 	<press-can-request-copy>TRUE</press-can-request-copy>
 
 	<platforms>
 		
 		<platform>
 			<name>Steam</name>
-			<link>https://store.steampowered.com/app/2625960/Doodle_Streets_London_1950s/</link>
+			<link>http://www.steampowered.com/</link>
 		</platform>
 		
 	</platforms>
