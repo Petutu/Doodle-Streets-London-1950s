@@ -3,6 +3,7 @@
 <game>
 	<title>Doodle Streets: London 1950s</title>
 	<release-date>1 April, 2024</release-date>
+	<name>Steam</name>
 	<website>https://store.steampowered.com/app/2625960/Doodle_Streets_London_1950s/</website>
 	<press-can-request-copy>TRUE</press-can-request-copy>
 
@@ -33,11 +34,6 @@
 	</history>
 
 	<features>
-		<feature>Main features
-
-
-
-</feature>
 		<feature>Around 234 hidden objects or tasks to finish and even more stuff to engage with or discover. Or just simply relax and enjoy the sometimes busy, sometimes calm atmosphere of locations like Notting Hill, old industrial district, classical suburbs or Westminster.</feature>
 		<feature>Hand-drawn graphics carefully crafted to create 2.5D locations by using Parallax effect with up to 27 layers of depth.</feature>
 		<feature>Perspective matters! Sometimes things are only seen from certain angles or distance, but don’t worry, you will have enough clues to find them.</feature>
@@ -52,15 +48,15 @@
 		
 		<trailer>
 			<name>Gameplay Video</name>
-			<youtube>yqWX86uT5jM</youtube>
-			<vimeo>110527266</vimeo>
+			<youtube>YF7EmEwKNQ8</youtube>
+			
 		</trailer>
 	</trailers>
 	
 
 	
 	
-	<additionals>
+	<!--<additionals>
 		<additional>
 			<title>Original Soundtrack</title>
 			<description>Available for free from</description>
@@ -71,7 +67,7 @@
 			<description>The blog-post through which this game was released is available at</description>
 			<link>http://vlambeer.com/bloglink</link>
 		</additional>
-	</additionals>
+	</additionals> 
 	
 	<credits>
 		<credit>
@@ -79,5 +75,5 @@
 			<role>Business &amp; Development, Vlambeer</role>
 		</credit>
 		
-	</credits>
+	</credits> -->
 </game>
